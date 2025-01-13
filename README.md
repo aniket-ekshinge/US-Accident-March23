@@ -21,12 +21,15 @@ The objective of this project was to analyze the US Accidents Dataset to uncover
 
     Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn
 
+## Data Setup
+This project uses a dataset from Kaggle. You can download it [here](<https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data>).
+
 ### How to Run
 
 
     1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/us-accidents-analysis.git
+git clone https://github.com/aniket-ekshinge/US-Accident-March23.git
 ```
     2. Install dependencies:
 ```bash
